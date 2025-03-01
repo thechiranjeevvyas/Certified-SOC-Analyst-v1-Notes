@@ -1,8 +1,8 @@
-# CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/CEHv12Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
+# CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/Certified-SOC-Analyst-v1-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
 
 ## About
 
-- Welcome to the study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam! This collection has been thoughtfully created by [@Chiranjeev](https://github.com/thechiranjeevvyas) as fork of the original repository by FindMeAndKillMe.
+- Welcome to the study notes for the EC-Council Certified SOC Analyst (CSA)v1 exam! This collection has been thoughtfully created by [@Chiranjeev](https://github.com/thechiranjeevvyas).
 
 - These notes are elegantly published using **Gitbooks**.
 
@@ -12,7 +12,7 @@
 
 - ⭐ If you find these notes valuable, please consider starring the repository to show your support!
 
-- 🙌 Contributions are greatly appreciated! Feel free to to check out the [repo](https://github.com/thechiranjeevvyas/CEHv12Notes) and enhance this resource by submitting a [pull request](https://github.com/thechiranjeevvyas/CEHv12Notes/pulls). A list of contributors will be maintained to recognize your efforts.
+- 🙌 Contributions are greatly appreciated! Feel free to to check out the [repo](https://github.com/thechiranjeevvyas/Certified-SOC-Analyst-v1-Notes) and enhance this resource by submitting a [pull request](https://github.com/thechiranjeevvyas/Certified-SOC-Analyst-v1-Notes/pulls). A list of contributors will be maintained to recognize your efforts.
 
 ## Modules
 
