@@ -1,4 +1,4 @@
-# CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/Certified-SOC-Analyst-v1-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
+# Certified SOC Analyst v1 Notes <a href="https://github.com/thechiranjeevvyas/Certified-SOC-Analyst-v1-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
 
 ## About
 
@@ -16,9 +16,9 @@
 
 ## Modules
 
-- [Module 01: Introduction to Ethical Hacking](module_01_Intro_to_Ethical_Hacking/01_information_security.md)
-- [Module 02: Foot Printing and Reconnaissance](module_02_Footprinting/01_footprinting_concepts.md)
-- [Module 03: Scanning Networks](module_03_Scanning_Networks/01_network_scanning_concepts.md)
-- [Module 04: Enumeration](module_04_Enumeration/01_enumeration_concepts.md)
-- [Module 05: Vulnerability Analysis](module_05_VulnerabilityAnalysis/01_vulnerability_assessment_concepts.md)
-- [Module 06: System Hacking](module_06_SystemHacking/01_gaining_access.md)
+- [Module 01 : Security Operations and Management](module_01_Intro_to_Ethical_Hacking/01_information_security.md)
+- [module_02_Understanding Cyber Threats, IoCs, and Attack Methodology](module_02_Footprinting/01_footprinting_concepts.md)
+- [module_03_Incidents, Events, and Logging](module_03_Scanning_Networks/01_network_scanning_concepts.md)
+- [module_04_Incident Detection with Security Information and Event Management (SIEM)](module_04_Enumeration/01_enumeration_concepts.md)
+- [module_05_Enhanced Incident Detection with Threat Intelligence](module_05_VulnerabilityAnalysis/01_vulnerability_assessment_concepts.md)
+- [module_06_Incident Response](module_06_SystemHacking/01_gaining_access.md)
