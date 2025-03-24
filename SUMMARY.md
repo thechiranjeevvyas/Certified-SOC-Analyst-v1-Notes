@@ -23,7 +23,7 @@
 * [Module 01: Security Manangement and Operations](<module_01_Security Operations and Management/README.md>)
   * [Section 01: Security Management , SOC , Security Operations](<module_01_Security Operations and Management/01_SecurityManagement.md>)
   * [Section 02: Security Operations Center (SOC)](<module_01_Security Operations and Management/02_SOC.md>)
-  * [Section 03: Hacking Concepts](<module_01_Security Operations and Management/03_hacking_concepts.md>)
+  * [Section 03: Types Of SOC Model](<module_01_Security Operations and Management/03_hacking_concepts.md>)
   * [Section 04: Information Security Controls](<module_01_Security Operations and Management/04_information_security_controls.md>)
   * [Section 05: Information Security Laws](<module_01_Security Operations and Management/05_information_security_laws.md>)
   * [tryhackme](module_01_security-operations-and-management/tryhackme/README.md)
