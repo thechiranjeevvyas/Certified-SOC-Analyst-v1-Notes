@@ -8,14 +8,13 @@ Burp Suite is an integrated platform/graphical tool for performing security test
 
 Link
 
-- [https://portswigger.net/burp](https://portswigger.net/burp)
-
-- [Definition](../../definitions/definitions_B.md#burp-suite)
+* [https://portswigger.net/burp](https://portswigger.net/burp)
+* [Definition](broken-reference)
 
 Website footprinting
 
-- Examining HTML source code
-- Examining cookies
+* Examining HTML source code
+* Examining cookies
 
 ## Web Spider
 
@@ -23,9 +22,8 @@ A Web crawler, sometimes called a spider or spiderbot and often shortened to cra
 
 Links
 
-- [https://en.wikipedia.org/wiki/Web_crawler](https://en.wikipedia.org/wiki/Web_crawler)
-
-- [Definition](../../definitions/definitions_W.md#web-spider)
+* [https://en.wikipedia.org/wiki/Web\_crawler](https://en.wikipedia.org/wiki/Web_crawler)
+* [Definition](broken-reference)
 
 ## Extracting Information from archive.org
 
@@ -35,21 +33,18 @@ The Internet Archive is an American digital library with the stated mission of "
 
 Links
 
-- [https://archive.org](https://archive.org)
-- [https://en.wikipedia.org/wiki/Internet_Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-
-- [Definition](../../definitions/definitions_A.md#archive-org)
+* [https://archive.org](https://archive.org)
+* [https://en.wikipedia.org/wiki/Internet\_Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+* [Definition](broken-reference)
 
 ## Metadata Extraction Tools
 
 ## Exiftool
 
-ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata.
-It is platform independent, available as both a Perl library (Image::ExifTool) and command-line application.
+ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata. It is platform independent, available as both a Perl library (Image::ExifTool) and command-line application.
 
 Links
 
-- [https://exiftool.org](https://exiftool.org)
-- [https://en.wikipedia.org/wiki/ExifTool](https://en.wikipedia.org/wiki/ExifTool)
-
-- [Definition](../../definitions/definitions_E.md#exiftool)
+* [https://exiftool.org](https://exiftool.org)
+* [https://en.wikipedia.org/wiki/ExifTool](https://en.wikipedia.org/wiki/ExifTool)
+* [Definition](broken-reference)

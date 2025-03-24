@@ -1,22 +1,23 @@
 # Section 07: Footprinting through Social Engineering
 
 ## Social Engineering
+
 Eavesdropping
 
-[Definition](../../definitions/definitions_E.md#eavesdropping)
+[Definition](broken-reference)
 
 Shoulder surfing
 
-[Definition](../../definitions/definitions_S.md#shoulder-surfing)
+[Definition](broken-reference)
 
 Dumpster diving
 
-[Definition](../../definitions/definitions_D.md#dumpster-diving)
+[Definition](broken-reference)
 
 Impersonation / impersonator
 
-[Definition](../../definitions/definitions_I.md#impersonation)
+[Definition](broken-reference)
 
 OSINT Framework
 
-[Definition](../../definitions/definitions_O.md#osint-framework)
+[Definition](broken-reference)
