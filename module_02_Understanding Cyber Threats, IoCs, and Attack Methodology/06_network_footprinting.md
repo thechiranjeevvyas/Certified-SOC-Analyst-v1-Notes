@@ -10,6 +10,5 @@ Tcptraceroute
 
 Links
 
-- [https://en.wikipedia.org/wiki/Traceroute](https://en.wikipedia.org/wiki/Traceroute)
-
-- [Definition](../../definitions/definitions_T.md#traceroute)
+* [https://en.wikipedia.org/wiki/Traceroute](https://en.wikipedia.org/wiki/Traceroute)
+* [Definition](broken-reference)
