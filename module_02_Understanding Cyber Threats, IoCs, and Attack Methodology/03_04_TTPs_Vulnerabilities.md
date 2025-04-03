@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🚀 Tactics, Techniques & Procedures (TTPs) & Vulnerabilities
 
 ## 🎯 Tactics-Techniques-Procedures (TTPs)
